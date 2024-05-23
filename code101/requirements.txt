@@ -1,0 +1,6 @@
+openai
+google.generativeai
+anthropic
+cohere
+streamlit
+python-dotenv

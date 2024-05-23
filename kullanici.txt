@@ -1,0 +1,1 @@
+[{"eposta": "deneme@gmail.com"}, {"password": "admin123"}, {"Ge\u00e7erlilik S\u00fcresi": 30}]
